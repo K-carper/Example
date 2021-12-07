@@ -99,6 +99,10 @@ To display a literal character that would otherwise be used to format text in a 
 
 \* Without the backslash, this would be a bullet in an unordered list.
 
-## Video Hyperlink
+## Video Hyperlink 
 You need a pair of brackets \[\] for the link's text that's shown on the page, and a pair of parentheses \(\) for the hyperlink's URL:
 [Inserting Links](https://youtu.be/0aJCGOxeHVk)
+
+## Video Hyperlink through image 
+\[\!\[image title\]\(image link\)\]\(video link\)
+[![]()]()

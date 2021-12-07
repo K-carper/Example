@@ -92,7 +92,7 @@ Markdown applications don’t agree on how to handle spaces in the middle of a U
 ## Images
 To add an image, add an exclamation mark (!), followed by alt text in brackets, and the path or URL to the image asset in parentheses.  
 
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://mdg.imgix.net/assets/images/san-juan-mountains.jpg?auto=format&fit=clip&q=40&w=1080)
 
 ## Escaping Characters: \', \*, \_, \{}, \[], \<>, \(), \#, \+, \-, \., \!, \|
 To display a literal character that would otherwise be used to format text in a Markdown document, add a backslash (\) in front of the character.

@@ -105,4 +105,4 @@ You need a pair of brackets \[\] for the link's text that's shown on the page, a
 
 ## Video Hyperlink through image 
 \[\!\[image title\]\(image link\)\]\(video link\)
-[![](https://i.ytimg.com/vi/eJojC3lSkwg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDrqioV5vDEqEw_0CPHqydzn6FZHQ)]()
+[![Markdown Crash Course](https://i.ytimg.com/vi/eJojC3lSkwg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDrqioV5vDEqEw_0CPHqydzn6FZHQ)](https://www.youtube.com/watch?v=eJojC3lSkwg)
